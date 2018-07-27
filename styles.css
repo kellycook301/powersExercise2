@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+.allPowers {
+    text-align: center;
+}
+
+.activateButtons {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.deactivateButtons {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.allButtons {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
